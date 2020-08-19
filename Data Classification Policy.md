@@ -35,4 +35,4 @@ Some examples of Generic Usage Data are:
 - “Professors teaching STEM classes have longer responses to student questions than...”
 
 ## Data Access and Deletion Requests
-Data owners may request an export of their data, or that their data is deleted. We will do our best to triage and grant such requests in a timely fashion. If you have a Data access or deletion request, email privacy@campuswire.com.
+Data owners may request an export of their data, or that their data is deleted. We will do our best to triage and grant such requests in a timely fashion. If you have a Data access or deletion request, email user_privacy@campuswire.com.
